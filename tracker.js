@@ -2,7 +2,7 @@ var participants = ['Michael', 'Charles'];
 
 var FITNESS_SHEET_URL = 'https://docs.google.com/spreadsheets/d/1ME0OIoL0XgF0d-F9ba47Pt3BV6GDPqH6wPtXEm-Q25k/gviz/tq?gid=0&headers=1';
 var TMOC_QUERY = 'select A, B, C';
-
+``
 function drawGID() {
   var query = new google.visualization.Query(FITNESS_SHEET_URL);
   query.setQuery(TMOC_QUERY);
