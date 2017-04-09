@@ -5,5 +5,11 @@
   "main": "src/app.js",
   "repository": "https://github.com/terranmoccasin/bigendians-fitness",
   "author": "Michael Hwang",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3",
+    "react-google-charts": "^1.5.4-alpha.1",
+    "webpack": "^2.3.3"
+  }
 }
