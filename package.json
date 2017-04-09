@@ -1,0 +1,9 @@
+{
+  "name": "bigendians-fitness",
+  "version": "1.0.0",
+  "description": "Fitness tracker",
+  "main": "src/app.js",
+  "repository": "https://github.com/terranmoccasin/bigendians-fitness",
+  "author": "Michael Hwang",
+  "license": "MIT"
+}
