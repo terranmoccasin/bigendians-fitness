@@ -1,7 +1,7 @@
 var webpack = require('webpack');
 
 module.exports = {
-  entry: './src/app.jsx',
+  entry: './tracker.js',
 
   // Sets the output path.
   output: {
